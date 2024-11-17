@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathApp", "MathApp\MathApp.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathAppTests", "MathAppTests\MathAppTests.csproj", "{927B0ED4-AC93-4C82-8A5A-0E3A4C4D9D68}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathAppNUnitTests", "MathAppNUnitTests\MathAppNUnitTests.csproj", "{442069B8-F9A1-462C-8E52-6E285E14B459}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{927B0ED4-AC93-4C82-8A5A-0E3A4C4D9D68}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{927B0ED4-AC93-4C82-8A5A-0E3A4C4D9D68}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{927B0ED4-AC93-4C82-8A5A-0E3A4C4D9D68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{442069B8-F9A1-462C-8E52-6E285E14B459}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{442069B8-F9A1-462C-8E52-6E285E14B459}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{442069B8-F9A1-462C-8E52-6E285E14B459}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{442069B8-F9A1-462C-8E52-6E285E14B459}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
