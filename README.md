@@ -48,7 +48,7 @@
 #### 2. **Настройка проекта для тестирования**
 1. Создайте новый проект **Unit Test Project** для MSTest:
    - В **Solution Explorer** щелкните правой кнопкой мыши на Solution -> **Add -> New Project**.
-   - Выберите **Unit Test Project (.NET Core)** или **Unit Test Project (.NET Framework)**.
+   - Выберите **Unit Test Project (.NET Framework)**.
 2. Создайте аналогичный проект для NUnit:
    - Щелкните **Add -> New Project** и выберите **NUnit Test Project**.
    - Убедитесь, что для обоих проектов указана одна и та же версия .NET.
